@@ -1,0 +1,22 @@
+{
+	"fonts": [  
+        {
+            "aifont": "OpenSans-Semibold",
+            "family": "OpenSans",
+            "weight": "500",
+            "style": ""
+        },
+        {
+            "aifont": "OpenSans-Bold",
+            "family": "OpenSans",
+            "weight": "700",
+            "style": ""
+        },
+        {
+            "aifont": "",
+            "family": "",
+            "weight": "",
+            "style": ""
+        }
+    ]
+}
